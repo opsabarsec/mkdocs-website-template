@@ -25,7 +25,7 @@ To tackle this challenge, we developed a custom-built AI solution similar to a "
 
 ## Solution Overview
 
-![Data Pipeline Architecture](../assets/data-pipeline.png)
+![Data Pipeline Architecture](../../assets/data-pipeline.png)
 
 *Caption: Architecture diagram showing the integration of structured and unstructured data sources through the AI analysis pipeline*
 
