@@ -95,27 +95,35 @@ Here's what sets me apart and how I can help drive value for your business:
 
 ## What my past clients say about my work
 
-<div class="grid cards" markdown>
+<div class="grid cards testimonials" markdown>
 
--   :material-format-quote-open:{ .lg .middle } Adrian Dragomir, Founder at Sferal
+-   :material-format-quote-open:{ .lg .middle } Adrian Dragomir
+    
+    Founder at Sferal
 
     ---
 
     "Dave is a true professional and my collaboration with him has been flawless. **He took his time and spent 3 days with me and my team in Mamaia, Romania where he was a guest for 3 sessions of my podcast Waves of AI**. He is one of the most competent people I know that has a real understanding of how AI works and how to integrate it quickly in your company."
 
--   :material-format-quote-open:{ .lg .middle } Barbara van den Bosch, Founder at Viverve
+-   :material-format-quote-open:{ .lg .middle } Barbara van den Bosch
+    
+    Founder at Viverve
 
     ---
 
     "Together with Datalumina, we developed a tailor-made program where I, as a school leader, can now bring together vast amounts of information in one place and automate key tasks. **Beyond the tremendous quality improvement for our organization, working with Datalumina was an extremely pleasant experience**."
 
--   :material-format-quote-open:{ .lg .middle } Rene Raaphorst, Founder at Crypto Insiders
+-   :material-format-quote-open:{ .lg .middle } Rene Raaphorst
+    
+    Founder at Crypto Insiders
 
     ---
 
     "My experience with Datalumina has been excellent. **They think along with you every step of the way, from proof of concept to a fully functional product**. I was amazed by the quality of the results and found the collaboration very enjoyable. I highly recommend Dave and Datalumina to everyone!"
 
--   :material-format-quote-open:{ .lg .middle } Kelsen, Founder at Datavisum
+-   :material-format-quote-open:{ .lg .middle } Kelsen
+    
+    Founder at Datavisum
 
     ---
 
@@ -123,8 +131,22 @@ Here's what sets me apart and how I can help drive value for your business:
 
 </div>
 
-!!! cta-banner "Let's have a virtual coffee together!"
+## Frequently asked questions
 
-    Want to see if we're a match? Let's have a chat and find out.
-    
-    [Book a free intro call :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }
+??? quote "How quickly can you start working on my project?"
+    I can typically begin new projects within 1-2 weeks of contract signing. For urgent matters, I maintain some flexibility for rapid response situations and can potentially start sooner - just let me know your timeline during our initial consultation.
+
+??? quote "Do you require a minimum project size or commitment?"
+    While I can accommodate projects of any size, I find that engagements of at least 20 hours allow for meaningful impact. This gives us enough time to understand your data, implement solutions, and deliver actionable results. We can start with a small pilot project to ensure we're a good fit.
+
+??? quote "What industries do you have experience in?"
+    I've successfully delivered projects across e-commerce, manufacturing, healthcare, and financial services. While I specialize in data science fundamentals that apply across sectors, I particularly excel in projects involving customer behavior analysis, process optimization, and predictive modeling.
+
+??? quote "How do you handle data security and confidentiality?"
+    I take data security extremely seriously. I sign comprehensive NDAs before starting any project, use enterprise-grade encryption for all data transfers, and follow industry best practices for data handling. I can also work within your existing security infrastructure and policies.
+
+??? quote "What's your pricing structure?"
+    I offer both project-based and retainer pricing models. Project fees are based on scope, complexity, and value delivered rather than hours worked. For ongoing support, I offer flexible retainer packages. Let's discuss your specific needs during our consultation to determine the most cost-effective approach.
+
+??? quote "How do you communicate progress and results?"
+    I maintain clear communication through weekly progress updates and regular check-in meetings. You'll receive detailed documentation of all analyses, findings, and recommendations. For ongoing projects, I provide interactive dashboards and reports that allow you to track progress and results in real-time.

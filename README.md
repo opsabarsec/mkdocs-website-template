@@ -40,6 +40,15 @@ As you go through this setup, please find all the most up to date information in
    ```
    Visit `http://localhost:8000` to see your site.
 
+> **Note on Operating Systems**: 
+> - This setup has been thoroughly tested on MacOS (Intel and Apple Silicon)
+> - Windows setup instructions are still being updated
+> - If you encounter any issues on Windows:
+>   1. First, check the [official MkDocs Material documentation](https://squidfunk.github.io/mkdocs-material/getting-started/)
+>   2. Try to resolve the issue using their troubleshooting guides
+>   3. If the problem persists, please message Dave on Circle for assistance
+>   4. Your feedback will help improve the documentation for other Windows users!
+
 ## Customizing Your Portfolio
 
 ### 1. Basic Configuration
