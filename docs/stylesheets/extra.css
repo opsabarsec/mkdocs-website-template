@@ -1,0 +1,37 @@
+/* Light theme custom colors */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #000111;
+  --md-accent-fg-color: #2856f7;
+  --md-typeset-a-color: var(--md-accent-fg-color);
+  --md-footer-bg-color: var(--md-primary-fg-color);
+}
+
+/* Dark theme custom colors */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #000111;
+  --md-default-bg-color: #090d1d;
+  --md-accent-fg-color: #8e92f8;
+  --md-typeset-a-color: var(--md-accent-fg-color);
+}
+
+/* Dark Theme Custom Button */
+[data-md-color-scheme="slate"] .md-button {
+  background-color: var(--md-accent-fg-color);
+  border-color: var(--md-accent-fg-color);
+}
+
+/* Optional: Custom hover effects */
+[data-md-color-scheme="slate"] .md-button:hover {
+  background-color: #ffffff;
+  border-color: #ffffff;
+  color: #000000;
+}
+
+/* Footer Section */
+.md-footer {
+  background-color: #090d1d;
+}
+
+.md-footer-meta {
+  background-color: #000111;
+}

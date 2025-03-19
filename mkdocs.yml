@@ -1,0 +1,104 @@
+site_name: Dave Ebbelaar
+site_description: Dave Ebbelaar is an AI entrepreneur and educator with over a decade of experience in the field. As the founder of Datalumina, he builds data and AI applications to help companies accelerate AI adoption, sharing his journey on YouTube and through Data Freelancer™, where he helps data professionals kickstart their freelancing careers.
+site_url: https://daveebbelaar.com
+
+nav:
+  - Home:
+    - About: index.md
+  - Blog:
+    - blog/index.md
+  - Portfolio:
+    - portfolio/index.md
+
+theme:
+  name: material
+  features:
+    - search.suggest
+    - toc.integrate
+    - navigation.tabs
+    - navigation.expand
+    - navigation.sections
+    - navigation.instant
+    - navigation.instant.prefetch
+    - content.tooltips
+    - content.tabs.link
+    - content.code.copy
+    - navigation.footer
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: custom
+      accent: custom  
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: custom
+      accent: custom
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: material/slash-forward-box
+  favicon: assets/favicon.png
+
+extra:
+  generator: true
+  social:
+    - icon: fontawesome/solid/building
+      link: https://datalumina.com
+    - icon: fontawesome/brands/github
+      link: https://github.com/daveebbelaar
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@daveebbelaar
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/daveebbelaar
+  analytics:
+    provider: google
+    property: G-W9Y1P0NKVZ
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/newsletter.css
+  - stylesheets/hero.css
+
+plugins:
+  - search
+  - social:
+      cards_layout_options:
+        background_color: "#000111"
+  - blog:
+      blog_dir: blog
+      authors_file: "{blog}/.authors.yml"
+      categories: true
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - def_list
+  - pymdownx.keys
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js
+
+extra_files:
+  - docs/robots.txt
+
+copyright: |
+  &copy; 2024 <a href="https://www.linkedin.com/in/daveebbelaar/" target="_blank" rel="noopener">Dave Ebbelaar</a>. All rights reserved.
