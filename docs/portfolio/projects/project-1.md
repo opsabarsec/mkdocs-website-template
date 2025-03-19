@@ -1,11 +1,11 @@
 ---
-title: AI Customer Care Bot for WebLife
+title: AI Customer Care Bot for Dev X
 description: Implementation of an AI chatbot solution to revolutionize customer service operations and enable staff transition to relationship-focused roles
 ---
 
-# AI Customer Care Bot for WebLife
+# AI Customer Care Bot for Dev X
 
-WebLife aims to reduce its customer service overhead by 90% over the next three years through AI, enabling their staff to focus on more rewarding roles and build better relationships with clients.
+Dev X aims to reduce its customer service overhead by 90% over the next three years through AI, enabling their staff to focus on more rewarding roles and build better relationships with clients.
 
 ## Challenge
 
@@ -13,7 +13,7 @@ Their strategy involved transitioning customer service representatives to more r
 
 ## Our Approach
 
-We developed an AI chatbot specifically for WebLife's internal use, designed to assist customer service representatives in quickly accessing information. The solution was seamlessly integrated within Slack, the platform already used by their team, allowing for minimal disruption to existing workflows.
+We developed an AI chatbot specifically for Dev X's internal use, designed to assist customer service representatives in quickly accessing information. The solution was seamlessly integrated within Slack, the platform already used by their team, allowing for minimal disruption to existing workflows.
 
 ## Results & Impact
 

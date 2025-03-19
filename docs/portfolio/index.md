@@ -9,16 +9,16 @@ Welcome to my portfolio of data science and AI projects. Each project demonstrat
 
 <div class="grid cards" markdown>
 
--   :material-chat:{ .lg .middle } [AI Customer Care Bot for WebLife](projects/project-1)
+-   :material-chat:{ .lg .middle } [AI Customer Care Bot for Dev X](projects/project-1)
 
     ---
 
-    An AI-powered chatbot solution for WebLife that enables customer service transformation, featuring Slack integration and sub-3 second response times. Built with OpenAI, Pinecone, and Azure cloud infrastructure to achieve 100% accuracy on initial datasets.
+    An AI-powered chatbot solution for Dev X that enables customer service transformation, featuring Slack integration and sub-3 second response times. Built with OpenAI, Pinecone, and Azure cloud infrastructure to achieve 100% accuracy on initial datasets.
 
--   :material-file-document:{ .lg .middle } [Enterprise Chatbot for the Province of Utrecht](projects/project-2)
+-   :material-file-document:{ .lg .middle } [Enterprise Chatbot for Company Y](projects/project-2)
 
     ---
 
-    A private ChatGPT-like tool for the Province of Utrecht that revolutionizes mobility data analysis by combining structured SQL data with unstructured policy documents. Built with OpenAI and modern cloud architecture for comprehensive public sector policy evaluation.
+    A private ChatGPT-like tool for the Company Y that revolutionizes mobility data analysis by combining structured SQL data with unstructured policy documents. Built with OpenAI and modern cloud architecture for comprehensive public sector policy evaluation.
 
 </div>

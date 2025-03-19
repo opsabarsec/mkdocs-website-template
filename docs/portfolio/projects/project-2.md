@@ -1,15 +1,15 @@
 ---
-title: Enterprise Chatbot for the Province of Utrecht
+title: Enterprise Chatbot for Company Y
 description: Development of a private ChatGPT-like tool for analyzing mobility data and policy evaluation in the public sector
 ---
 
-# Enterprise Chatbot for the Province of Utrecht
+# Enterprise Chatbot for the DevZ
 
-The Province of Utrecht launched an AI project featuring a private ChatGPT-like tool, streamlining mobility data analysis and advancing digital innovation in public sector policy evaluation.
+Company Y an AI project featuring a private ChatGPT-like tool, streamlining mobility data analysis and advancing digital innovation in public sector policy evaluation.
 
 ## Challenge
 
-The regional data team at the Province of Utrecht faced the challenge of analyzing complex mobility data, including cars, bridges, traffic, and cyclists. Tasked with assessing policy compliance and the impact of changes, they struggled with data scattered across multiple systems, such as the Dexter portal's structured SQL data and various policy documents. This dispersion made analysis laborious, prompting the Province to explore how digitization and AI could streamline the process and foster innovation.
+The regional data team at Company Y faced the challenge of analyzing complex mobility data, including cars, bridges, traffic, and cyclists. Tasked with assessing policy compliance and the impact of changes, they struggled with data scattered across multiple systems, such as the Dexter portal's structured SQL data and various policy documents. This dispersion made analysis laborious, prompting the Province to explore how digitization and AI could streamline the process and foster innovation.
 
 ## Our Approach
 
