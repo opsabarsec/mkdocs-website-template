@@ -65,28 +65,19 @@ docs/
 
 ## Deployment
 
-### GitHub Pages
-
+I recommend publishing your site with GitHub Pages. If you want to keep your repo private, you need a GitHub Pro subscription. Public repos can be deployed with a free GitHub account.
+ 
 1. Push your repository to GitHub
-2. Enable GitHub Pages in your repository settings
-3. Select the branch (usually `gh-pages`) for deployment
-4. Run `mkdocs gh-deploy` to deploy
+2. Follow the instructions here: [Publishing your site](https://squidfunk.github.io/mkdocs-material/publishing-your-site/)
+3. Set up the GitHub actions for your project
+4. Test the deployment by pushing changes
 
 ### Custom Domain
 
 1. Add a `CNAME` file in your `docs` folder with your domain
 2. Configure your domain's DNS settings
-3. Enable HTTPS in GitHub Pages settings
-
-## Local Development
-
-For local development with all features:
-
-```bash
-# For MacOS M1/M2 users
-export DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib
-mkdocs serve
-```
+3. Go to your repo settings/pages to configure your custom domain
+4. Also enable HTTPS on this page
 
 ## Useful Resources
 
