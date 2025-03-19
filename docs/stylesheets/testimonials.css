@@ -1,0 +1,32 @@
+.testimonial-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 1rem 0;
+}
+
+.testimonial-card {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.testimonial-card .quote {
+  margin-bottom: 1rem;
+}
+
+.testimonial-card .author {
+  font-weight: 500;
+  color: #666;
+  position: relative;
+  padding-left: 1.5rem;
+}
+
+.testimonial-card .author::before {
+  content: '—';
+  position: absolute;
+  left: 0;
+  color: #6B7280;
+}
+

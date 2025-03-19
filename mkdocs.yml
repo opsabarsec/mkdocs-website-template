@@ -5,10 +5,14 @@ site_url: https://daveebbelaar.com
 nav:
   - Home:
     - About: index.md
+  - Case Studies:
+    - Overview: portfolio/index.md
+    - Projects:
+      - portfolio/projects/project-1.md
+      - portfolio/projects/project-2.md
   - Blog:
     - blog/index.md
-  - Portfolio:
-    - portfolio/index.md
+  - Contact: https://calendly.com/ # add your booking link here
 
 theme:
   name: material
@@ -62,9 +66,8 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
-  - stylesheets/newsletter.css
   - stylesheets/hero.css
-
+  - stylesheets/testimonials.css
 plugins:
   - search
   - social:

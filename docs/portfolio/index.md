@@ -1,0 +1,24 @@
+---
+title: Case Studies
+description: Datalumina B.V. is a data, analytics, and artificial intelligence company founded by Dave Ebbelaar to help businesses integrate AI and data into their operations. 
+---
+
+# Featured Projects
+
+Welcome to my portfolio of data science and AI projects. Each project demonstrates my expertise in delivering impactful solutions to real-world business challenges.
+
+<div class="grid cards" markdown>
+
+-   :material-chat:{ .lg .middle } [AI Customer Care Bot for WebLife](projects/project-1)
+
+    ---
+
+    An AI-powered chatbot solution for WebLife that enables customer service transformation, featuring Slack integration and sub-3 second response times. Built with OpenAI, Pinecone, and Azure cloud infrastructure to achieve 100% accuracy on initial datasets.
+
+-   :material-file-document:{ .lg .middle } [Enterprise Chatbot for the Province of Utrecht](projects/project-2)
+
+    ---
+
+    A private ChatGPT-like tool for the Province of Utrecht that revolutionizes mobility data analysis by combining structured SQL data with unstructured policy documents. Built with OpenAI and modern cloud architecture for comprehensive public sector policy evaluation.
+
+</div>
