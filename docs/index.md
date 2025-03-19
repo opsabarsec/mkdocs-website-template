@@ -37,7 +37,7 @@ canonical_url: https://www.daveebbelaar.com/
 
 Hi! I'm Dave, an entrepreneur and educator from the Netherlands. I work with technical professionals facing the overwhelming pace of AI innovation and businesses struggling to translate AI hype into competitive advantage. Whether you're a developer watching your skills becoming obsolete or a company unsure how to implement AI effectively—the challenge is the same: how to effectively use this technology before your competitors do.
 
-[Book free 30-minute consultation :material-arrow-top-right:](https://www.calendly.com){ .md-button .md-button--primary }
+[Book a free intro call :material-arrow-top-right:](https://www.calendly.com){ .md-button .md-button--primary }
 
 </div>
 
