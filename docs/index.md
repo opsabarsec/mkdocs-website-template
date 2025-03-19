@@ -53,62 +53,78 @@ Hi! I'm Dave, an entrepreneur and educator from the Netherlands. I work with tec
 
 My goal is to cut through the hype and make the complex world of data and AI accessible to everyone. My journey started in 2013 when I started studying artificial intelligence at VU Amsterdam. At that time, having never written a single line of code, I followed my natural intuition for building and optimizing things.
 
-Since 2019, I've been building practical AI systems that solve real business problems. My approach cuts through the hype to focus on what actually works—systems that deliver measurable ROI while building on your existing infrastructure. When your competitors are chasing the latest buzzwords, my solutions give you the edge that matters.
-
 My artificial intelligence journey spans over a decade, with bachelor's and master's degrees in the field and experience building custom data and AI systems across utilities, government, and e-commerce sectors. My tech stack includes Python, PostgreSQL, ML, FastAPI, OpenAI, Claude, Azure, vector databases, RAG, and LLM integration for enterprise applications.
 
-## Things I'm working on
+## Why work with me?
 
-Here's an overview of the various initiatives I'm currently working on in the fields of AI, education, and entrepreneurship.
+Here's what sets me apart and how I can help drive value for your business:
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-building-user:{ .lg .middle } [Datalumina®](https://www.datalumina.com)
+-   :fontawesome-solid-building-user:{ .lg .middle } Proven Business Experience
 
     ---
 
-    Datalumina is my company, which I founded in 2022. It has since grown beyond just me, and we now focus on building intelligent data-centric solutions, helping businesses effectively implement and leverage AI technologies.
+    As the founder of Datalumina, I bring entrepreneurial insight to every project. I understand both the technical and business sides of AI implementation, ensuring solutions that deliver real ROI and align with your business goals.
 
--   :material-youtube:{ .lg .middle } [YouTube](https://www.youtube.com/channel/UCn8ujwUInbJkBhffxqAPBVQ?sub_confirmation=1)
-
-    ---
-
-    Following my passion for making videos and educating, I share my journey and lessons on YouTube in the form of practical tutorials on how to build data and AI applications. Subscribe to follow the journey!
-
--   :material-school:{ .lg .middle } [Data Freelancer](https://www.datalumina.com/data-freelancer)
+-   :material-youtube:{ .lg .middle } Educator & Communicator
 
     ---
 
-    Through Data Freelancer, I help data professionals to launch and scale successful freelance careers. The program offers mentorship, guidance, and all the resources and tactics needed to succeed.
+    My experience as a content creator and educator means I can break down complex technical concepts into clear, actionable insights. You'll always understand the 'why' behind technical decisions and get clear progress updates.
 
--   :material-rocket:{ .lg .middle } [GenAI Launchpad](https://launchpad.datalumina.com/)
+-   :material-school:{ .lg .middle } Industry Expert
 
     ---
 
-    With AI innovation moving beyond the speed of light, your time to develop is now more precious than ever. That's why we've built the GenAI Launchpad – your secret weapon to shipping production-ready AI apps, faster.
+    With over a decade in AI and data science, including work across utilities, government, and e-commerce sectors, I bring battle-tested expertise to your projects. My solutions are built on real-world experience, not just theory.
+
+-   :material-rocket:{ .lg .middle } Fast Implementation
+
+    ---
+
+    I specialize in rapid development and deployment of AI solutions. Using modern tools and proven frameworks, I can help you move from concept to production faster, giving you a competitive edge in today's fast-paced market.
 
 </div>
 
-## Testimonials
+!!! cta-banner "Let's have a virtual coffee together!"
 
-<div class="testimonial-grid">
-  <div class="testimonial-card">
-    <p class="quote">"Dave is a true professional and my collaboration with him has been flawless. <strong>He took his time and spent 3 days with me and my team in Mamaia, Romania where he was a guest for 3 sessions of my podcast Waves of AI</strong>. He is one of the most competent people I know that has a real understanding of how AI works and how to integrate it quickly in your company."</p>
-    <p class="author">Adrian Dragomir, Founder at Sferal</p>
-  </div>
+    Want to see if we're a match? Let's have a chat and find out.
+    
+    [Book a free intro call :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }
 
-  <div class="testimonial-card">
-    <p class="quote">"Together with Datalumina, we developed a tailor-made program where I, as a school leader, can now bring together vast amounts of information in one place and automate key tasks. <strong>Beyond the tremendous quality improvement for our organization, working with Datalumina was an extremely pleasant experience</strong>."</p>
-    <p class="author">Barbara van den Bosch, Founder at Viverve</p>
-  </div>
-  
-  <div class="testimonial-card">
-    <p class="quote">"My experience with Datalumina has been excellent. <strong>They think along with you every step of the way, from proof of concept to a fully functional product</strong>. I was amazed by the quality of the results and found the collaboration very enjoyable. I highly recommend Dave and Datalumina to everyone!"</p>
-    <p class="author">Rene Raaphorst, Founder at Crypto Insiders</p>
-  </div>
-  
-  <div class="testimonial-card">
-    <p class="quote">"I am thankful for having come across Dave and Data Freelancer, it was one of the best investment decisions I've made in 2024. <strong>From effective ways to create inbound marketing strategies using social media, through solution architecture design to address all kinds of business challenges</strong>, you will extract a great deal of value from diverse perspectives."</p>
-    <p class="author">Kelsen, Founder at Datavisum</p>
-  </div>
+## What my past clients say about my work
+
+<div class="grid cards" markdown>
+
+-   :material-format-quote-open:{ .lg .middle } Adrian Dragomir, Founder at Sferal
+
+    ---
+
+    "Dave is a true professional and my collaboration with him has been flawless. **He took his time and spent 3 days with me and my team in Mamaia, Romania where he was a guest for 3 sessions of my podcast Waves of AI**. He is one of the most competent people I know that has a real understanding of how AI works and how to integrate it quickly in your company."
+
+-   :material-format-quote-open:{ .lg .middle } Barbara van den Bosch, Founder at Viverve
+
+    ---
+
+    "Together with Datalumina, we developed a tailor-made program where I, as a school leader, can now bring together vast amounts of information in one place and automate key tasks. **Beyond the tremendous quality improvement for our organization, working with Datalumina was an extremely pleasant experience**."
+
+-   :material-format-quote-open:{ .lg .middle } Rene Raaphorst, Founder at Crypto Insiders
+
+    ---
+
+    "My experience with Datalumina has been excellent. **They think along with you every step of the way, from proof of concept to a fully functional product**. I was amazed by the quality of the results and found the collaboration very enjoyable. I highly recommend Dave and Datalumina to everyone!"
+
+-   :material-format-quote-open:{ .lg .middle } Kelsen, Founder at Datavisum
+
+    ---
+
+    "I am thankful for having come across Dave and Data Freelancer, it was one of the best investment decisions I've made in 2024. **From effective ways to create inbound marketing strategies using social media, through solution architecture design to address all kinds of business challenges**, you will extract a great deal of value from diverse perspectives."
+
 </div>
+
+!!! cta-banner "Let's have a virtual coffee together!"
+
+    Want to see if we're a match? Let's have a chat and find out.
+    
+    [Book a free intro call :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }

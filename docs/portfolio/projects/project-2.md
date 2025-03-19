@@ -3,7 +3,7 @@ title: Enterprise Chatbot for Company Y
 description: Development of a private ChatGPT-like tool for analyzing mobility data and policy evaluation in the public sector
 ---
 
-# Enterprise Chatbot for the DevZ
+# Enterprise Chatbot for the Company Y
 
 Company Y an AI project featuring a private ChatGPT-like tool, streamlining mobility data analysis and advancing digital innovation in public sector policy evaluation.
 

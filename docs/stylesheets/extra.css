@@ -35,3 +35,24 @@
 .md-footer-meta {
   background-color: #000111;
 }
+
+/* CTA Banner Styling */
+.cta-banner {
+  text-align: center;
+}
+.cta-banner .md-button {
+    margin-top: 0.5rem;
+}
+
+/* CTA Banner Styling */
+.md-typeset .admonition.cta-banner > .admonition-title {
+    font-size: 1.2rem !important;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+Remove the default admonition icon
+.md-typeset .cta-banner > .admonition-title::before {
+    display: none;
+}

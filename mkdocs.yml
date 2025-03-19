@@ -12,7 +12,6 @@ nav:
       - portfolio/projects/project-2.md
   - Blog:
     - blog/index.md
-  - Contact: https://calendly.com/ # add your booking link here
 
 theme:
   name: material
