@@ -1,6 +1,6 @@
-site_name: Dave Ebbelaar
-site_description: Dave Ebbelaar is an AI entrepreneur and educator with over a decade of experience in the field. As the founder of Datalumina, he builds data and AI applications to help companies accelerate AI adoption, sharing his journey on YouTube and through Data Freelancer™, where he helps data professionals kickstart their freelancing careers.
-site_url: https://daveebbelaar.com
+site_name: Your Site Name
+site_description: Your site description
+site_url: https://yourdomain.com
 
 nav:
   - Home:
@@ -12,6 +12,7 @@ nav:
       - portfolio/projects/project-2.md
   - Blog:
     - blog/index.md
+  - Book free 30-min call: https://calendly.com/
 
 theme:
   name: material
@@ -52,26 +53,25 @@ extra:
   generator: true
   social:
     - icon: fontawesome/solid/building
-      link: https://datalumina.com
+      link: https://company.com
     - icon: fontawesome/brands/github
-      link: https://github.com/daveebbelaar
+      link: https://github.com/
     - icon: fontawesome/brands/youtube
-      link: https://youtube.com/@daveebbelaar
+      link: https://youtube.com/
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/daveebbelaar
+      link: https://www.linkedin.com
   analytics:
-    provider: google
-    property: G-W9Y1P0NKVZ
+    # provider: google
+    # property: G-W9Y130NXVZ
 
 extra_css:
   - stylesheets/extra.css
   - stylesheets/hero.css
-  - stylesheets/testimonials.css
 plugins:
   - search
   - social:
       cards_layout_options:
-        background_color: "#000111"
+        background_color: "#111111"
   - blog:
       blog_dir: blog
       authors_file: "{blog}/.authors.yml"
@@ -103,4 +103,4 @@ extra_files:
   - docs/robots.txt
 
 copyright: |
-  &copy; 2024 <a href="https://www.linkedin.com/in/daveebbelaar/" target="_blank" rel="noopener">Dave Ebbelaar</a>. All rights reserved.
+  &copy; 2024 <a href="https://www.linkedin.com" target="_blank" rel="noopener">John Doe</a>. All rights reserved.

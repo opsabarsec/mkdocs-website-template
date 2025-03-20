@@ -84,8 +84,8 @@ I recommend publishing your site with GitHub Pages. If you want to keep your rep
 ### Custom Domain
 
 1. Add a `CNAME` file in your `docs` folder with your domain
-2. Configure your domain's DNS settings
-3. Go to your repo settings/pages to configure your custom domain
+2. Follow the [instructions here](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) to configure your domain
+3. Configure your domain's DNS settings
 4. Also enable HTTPS on this page
 
 ## Useful Resources

@@ -1,36 +1,36 @@
 .profile-image {
-  width: 300px; /* Wider to accommodate portrait format */
-  height: 400px; /* Taller for portrait style */
-  object-fit: cover; /* Maintains image aspect ratio */
-  border-radius: 12px; /* Subtle rounded corners instead of circle */
-  transform: none; /* Remove the horizontal flip */
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Enhanced shadow for depth */
+  width: 280px;
+  height: 380px;
+  object-fit: cover;
+  border-radius: 12px;
+  transform: none;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .profile-image:hover {
-  transform: scale(1.02); /* Simple scale on hover, no flip */
+  transform: scale(1.02);
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
 }
 
 /* Grid Layout on index page */
 .grid-container {
   display: grid;
-  grid-template-columns: 1.2fr 1fr; /* Adjusted ratio for better text space */
-  gap: 40px; /* Increased gap for better separation */
-  align-items: center; /* Vertically center items */
-  padding: 40px 0; /* Add some vertical padding */
+  grid-template-columns: 1.5fr 1fr;
+  gap: 40px;
+  align-items: center;
+  padding: 40px 0;
 }
 
 .text-intro-grid {
   grid-column: 1 / 2;
-  padding-right: 20px; /* Add some space between text and image */
+  padding-right: 20px;
 }
 
 .profile-image-grid {
   grid-column: 2 / 3;
   display: flex;
-  justify-content: flex-end; /* Align image to the right */
+  justify-content: flex-end;
   align-items: center;
 }
 
@@ -43,10 +43,10 @@
   }
 
   .profile-image {
-    width: 100%; /* Full width on mobile */
-    max-width: 350px; /* But not too wide */
-    height: 400px; /* Maintain portrait aspect ratio */
-    margin: 0 auto; /* Center the image */
+    width: 100%;
+    max-width: 350px;
+    height: 400px;
+    margin: 0 auto;
   }
 
   .text-intro-grid {
@@ -70,7 +70,7 @@
   }
   
   .profile-image {
-    width: 450px; /* Slightly larger on big screens */
-    height: 550px;
+    width: 400px;
+    height: 500px;
   }
 }

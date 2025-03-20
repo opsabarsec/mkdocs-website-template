@@ -33,9 +33,19 @@ canonical_url: https://www.daveebbelaar.com/
 
 <div class="text-intro-grid" markdown>
 
-# Helping you navigate the AI revolution before you get left behind
+# Turn AI complexity into your competitive advantage
 
-Hi! I'm Dave, an entrepreneur and educator from the Netherlands. I work with technical professionals facing the overwhelming pace of AI innovation and businesses struggling to translate AI hype into competitive advantage. Whether you're a developer watching your skills becoming obsolete or a company unsure how to implement AI effectively—the challenge is the same: how to effectively use this technology before your competitors do.
+### I have 5+ years experience doing just that
+
+- Are you struggling to keep up with the rapid pace of AI innovation?
+
+- Do you need help translating AI hype into real business results?
+
+- Want to implement AI effectively before competitors get ahead?
+
+- Looking for technical expertise and a clear roadmap for AI solutions?
+
+- Need someone who understands both technical and business perspectives?
 
 [Book a free intro call :material-arrow-top-right:](https://www.calendly.com){ .md-button .md-button--primary }
 
@@ -43,15 +53,15 @@ Hi! I'm Dave, an entrepreneur and educator from the Netherlands. I work with tec
 
 <div class="profile-image-grid" markdown>
 
-![Dave Ebbelaar, AI Entrepreneur and Educator](/assets/@daveebbelaar.jpg){ .profile-image alt="Portrait of Dave Ebbelaar, AI entrepreneur and educator" }
+![Dave Ebbelaar, AI Entrepreneur and Educator](assets/@daveebbelaar.jpg){ .profile-image alt="Portrait of Dave Ebbelaar, AI entrepreneur and educator" }
 
 </div>
 
 </div>
 
-## About Me
+## About me
 
-My goal is to cut through the hype and make the complex world of data and AI accessible to everyone. My journey started in 2013 when I started studying artificial intelligence at VU Amsterdam. At that time, having never written a single line of code, I followed my natural intuition for building and optimizing things.
+Hi! I'm Dave, an entrepreneur and educator from the Netherlands. I work with technical professionals facing the overwhelming pace of AI innovation and businesses struggling to translate AI hype into competitive advantage. Whether you're a developer watching your skills becoming obsolete or a company unsure how to implement AI effectively—the challenge is the same: how to effectively use this technology before your competitors do.
 
 My artificial intelligence journey spans over a decade, with bachelor's and master's degrees in the field and experience building custom data and AI systems across utilities, government, and e-commerce sectors. My tech stack includes Python, PostgreSQL, ML, FastAPI, OpenAI, Claude, Azure, vector databases, RAG, and LLM integration for enterprise applications.
 
@@ -86,12 +96,6 @@ Here's what sets me apart and how I can help drive value for your business:
     I specialize in rapid development and deployment of AI solutions. Using modern tools and proven frameworks, I can help you move from concept to production faster, giving you a competitive edge in today's fast-paced market.
 
 </div>
-
-!!! cta-banner "Let's have a virtual coffee together!"
-
-    Want to see if we're a match? Let's have a chat and find out.
-    
-    [Book a free intro call :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }
 
 ## What my past clients say about my work
 
@@ -150,3 +154,9 @@ Here's what sets me apart and how I can help drive value for your business:
 
 ??? quote "How do you communicate progress and results?"
     I maintain clear communication through weekly progress updates and regular check-in meetings. You'll receive detailed documentation of all analyses, findings, and recommendations. For ongoing projects, I provide interactive dashboards and reports that allow you to track progress and results in real-time.
+
+## Let's have a virtual coffee together! ☕️ 
+
+Want to see if we're a match? Let's have a chat and find out.
+
+[Book a free intro call :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }
