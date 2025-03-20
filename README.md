@@ -58,6 +58,7 @@ Edit `mkdocs.yml` to customize your site:
 - Site name and metadata
 - Navigation structure
 - Color scheme and fonts
+- Custom CSS settings in `stylesheets/extra.css`
 - Social links
 - Extensions and plugins
 
@@ -75,13 +76,15 @@ docs/
 ## Deployment
 
 I recommend publishing your site with GitHub Pages. If you want to keep your repo private, you need a GitHub Pro subscription. Public repos can be deployed with a free GitHub account.
- 
+
 1. Push your repository to GitHub
 2. Follow the instructions here: [Publishing your site](https://squidfunk.github.io/mkdocs-material/publishing-your-site/)
 3. Set up the GitHub actions for your project
 4. Test the deployment by pushing changes
 
 ### Custom Domain
+
+
 
 1. Add a `CNAME` file in your `docs` folder with your domain
 2. Go to `repository/settings/pages` and check the domain settings
