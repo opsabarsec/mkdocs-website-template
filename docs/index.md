@@ -137,22 +137,22 @@ Here's what sets me apart and how I can help drive value for your business:
 
 ## Frequently asked questions
 
-??? quote "How quickly can you start working on my project?"
+??? note "How quickly can you start working on my project?"
     I can typically begin new projects within 1-2 weeks of contract signing. For urgent matters, I maintain some flexibility for rapid response situations and can potentially start sooner - just let me know your timeline during our initial consultation.
 
-??? quote "Do you require a minimum project size or commitment?"
+??? note "Do you require a minimum project size or commitment?"
     While I can accommodate projects of any size, I find that engagements of at least 20 hours allow for meaningful impact. This gives us enough time to understand your data, implement solutions, and deliver actionable results. We can start with a small pilot project to ensure we're a good fit.
 
-??? quote "What industries do you have experience in?"
+??? note "What industries do you have experience in?"
     I've successfully delivered projects across e-commerce, manufacturing, healthcare, and financial services. While I specialize in data science fundamentals that apply across sectors, I particularly excel in projects involving customer behavior analysis, process optimization, and predictive modeling.
 
-??? quote "How do you handle data security and confidentiality?"
+??? note "How do you handle data security and confidentiality?"
     I take data security extremely seriously. I sign comprehensive NDAs before starting any project, use enterprise-grade encryption for all data transfers, and follow industry best practices for data handling. I can also work within your existing security infrastructure and policies.
 
-??? quote "What's your pricing structure?"
+??? note "What's your pricing structure?"
     I offer both project-based and retainer pricing models. Project fees are based on scope, complexity, and value delivered rather than hours worked. For ongoing support, I offer flexible retainer packages. Let's discuss your specific needs during our consultation to determine the most cost-effective approach.
 
-??? quote "How do you communicate progress and results?"
+??? note "How do you communicate progress and results?"
     I maintain clear communication through weekly progress updates and regular check-in meetings. You'll receive detailed documentation of all analyses, findings, and recommendations. For ongoing projects, I provide interactive dashboards and reports that allow you to track progress and results in real-time.
 
 
