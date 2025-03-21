@@ -156,7 +156,7 @@ Here's what sets me apart and how I can help drive value for your business:
     I maintain clear communication through weekly progress updates and regular check-in meetings. You'll receive detailed documentation of all analyses, findings, and recommendations. For ongoing projects, I provide interactive dashboards and reports that allow you to track progress and results in real-time.
 
 
-<div class="grid cards" markdown>
+<div class="grid cards" style="margin-top: 3rem" markdown>
 
 -   :material-coffee:{ .lg .middle } Let's have a virtual coffee together!
 

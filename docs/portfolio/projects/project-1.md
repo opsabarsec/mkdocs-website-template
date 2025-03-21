@@ -25,9 +25,9 @@ We developed an AI chatbot specifically for Dev X's internal use, designed to as
 
 ## Solution Overview
 
-![Data Pipeline Architecture](../../assets/data-pipeline.png)
+![Architecture Diagram](../../assets/openai-end-to-end-aml-deployment.svg)
 
-*Caption: Architecture diagram showing the data flow from Google Sheets through Azure storage to PostgreSQL database*
+*Baseline OpenAI end-to-end chat reference architecture*
 
 ## Tech Stack
 
@@ -48,3 +48,15 @@ We developed an AI chatbot specifically for Dev X's internal use, designed to as
 - Close collaboration with customer service team
 - Ongoing knowledge base expansion
 - Future plans include implementing feedback mechanism
+
+<div class="grid cards" style="margin-top: 3rem" markdown>
+
+-   :material-coffee:{ .lg .middle } Let's have a virtual coffee together!
+
+    ---
+    
+    Want to see if we're a match? Let's have a chat and find out. Schedule a free 30-minute strategy session to discuss your AI challenges and explore how we can work together.
+
+    [Book Free Intro Call :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }
+
+</div>

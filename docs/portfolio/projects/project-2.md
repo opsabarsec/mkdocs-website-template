@@ -25,9 +25,9 @@ To tackle this challenge, we developed a custom-built AI solution similar to a "
 
 ## Solution Overview
 
-![Data Pipeline Architecture](../../assets/data-pipeline.png)
+![Architecture Diagram](../../assets/openai-end-to-end-aml-deployment.svg)
 
-*Caption: Architecture diagram showing the integration of structured and unstructured data sources through the AI analysis pipeline*
+*Baseline OpenAI end-to-end chat reference architecture*
 
 ## Tech Stack
 
@@ -47,3 +47,15 @@ To tackle this challenge, we developed a custom-built AI solution similar to a "
 - Expertise in custom chatbot development
 - Specialization in retrieval-augmented generation
 - Focus on OpenAI model integration
+
+<div class="grid cards" style="margin-top: 3rem" markdown>
+
+-   :material-coffee:{ .lg .middle } Let's have a virtual coffee together!
+
+    ---
+    
+    Want to see if we're a match? Let's have a chat and find out. Schedule a free 30-minute strategy session to discuss your AI challenges and explore how we can work together.
+
+    [Book Free Intro Call :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }
+
+</div>
