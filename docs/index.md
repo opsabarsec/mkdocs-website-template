@@ -47,7 +47,7 @@ canonical_url: https://www.daveebbelaar.com/
 
 - Need someone who understands both technical and business perspectives?
 
-[Book a free intro call :material-arrow-top-right:](https://www.calendly.com){ .md-button .md-button--primary }
+[Book Free Intro Call :material-arrow-top-right:](https://www.calendly.com){ .md-button .md-button--primary }
 
 </div>
 
@@ -155,8 +155,15 @@ Here's what sets me apart and how I can help drive value for your business:
 ??? quote "How do you communicate progress and results?"
     I maintain clear communication through weekly progress updates and regular check-in meetings. You'll receive detailed documentation of all analyses, findings, and recommendations. For ongoing projects, I provide interactive dashboards and reports that allow you to track progress and results in real-time.
 
-## Let's have a virtual coffee together! ☕️ 
 
-Want to see if we're a match? Let's have a chat and find out.
+<div class="grid cards" markdown>
 
-[Book a free intro call :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }
+-   :material-coffee:{ .lg .middle } Let's have a virtual coffee together!
+
+    ---
+    
+    Want to see if we're a match? Let's have a chat and find out. Schedule a free 30-minute strategy session to discuss your AI challenges and explore how we can work together.
+
+    [Book Free Intro Call :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }
+
+</div>

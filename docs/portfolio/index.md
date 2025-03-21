@@ -9,13 +9,13 @@ Welcome to my portfolio of data science and AI projects. Each project demonstrat
 
 <div class="grid cards" markdown>
 
--   :material-chat:{ .lg .middle } [AI Customer Care Bot for Dev X](projects/project-1.md)
+-   [AI Customer Care Bot for Dev X](projects/project-1.md)
 
     ---
 
     An AI-powered chatbot solution for Dev X that enables customer service transformation, featuring Slack integration and sub-3 second response times. Built with OpenAI, Pinecone, and Azure cloud infrastructure to achieve 100% accuracy on initial datasets.
 
--   :material-file-document:{ .lg .middle } [Enterprise Chatbot for Company Y](projects/project-2.md)
+-   [Enterprise Chatbot for Company Y](projects/project-2.md)
 
     ---
 

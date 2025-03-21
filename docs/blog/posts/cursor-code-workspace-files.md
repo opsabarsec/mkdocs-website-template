@@ -38,20 +38,3 @@ Here's how to make Cursor the default application for `.code-workspace` files:
  
  1. This is where you need to change the setting to "All Applications".
     ![Enable All Applications](images/CleanShot%202024-09-15%20at%2012.03.17@2x.png)
-
-## My Cursor Workflow
-
-If you want to learn more about how to use Cursor effectively, you can check out the video below.
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/CqkZ-ybl3lg?si=BIs59_CN1k2hGeVI?rel=0"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen
-  ></iframe>
-  <a href="https://www.youtube.com/watch?v=CqkZ-ybl3lg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;" target="_blank" rel="noopener noreferrer"></a>
-</div>
