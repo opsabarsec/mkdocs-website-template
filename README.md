@@ -26,7 +26,7 @@ As you go through this setup, please find all the most up to date information in
 
 2. **Install MkDocs Material**
    ```bash
-   pip install mkdocs-material[imaging]
+   pip install "mkdocs-material[imaging]"
    
    # For MacOS, install required dependencies
    brew install cairo freetype libffi libjpeg libpng zlib pngquant
