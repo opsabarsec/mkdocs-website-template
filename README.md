@@ -18,6 +18,9 @@ As you go through this setup, please find all the most up to date information in
 
 ## Quick Start
 
+
+### Option 1: Local Installation (Recommended for Mac Users)
+
 1. **Clone this repository**
    ```bash
    git clone https://github.com/data-freelancer-mastermind/mkdocs-website-template.git
@@ -48,6 +51,29 @@ As you go through this setup, please find all the most up to date information in
 >   2. Try to resolve the issue using their troubleshooting guides
 >   3. If the problem persists, please message Dave on Circle for assistance
 >   4. Your feedback will help improve the documentation for other Windows users!
+
+
+### Option 2: Using Docker (Recommended for Windows, Mac and Linux)
+
+Docker provides a consistent environment across all operating systems, making it an excellent choice for development. This method works reliably on Windows, MacOS, and Linux.
+
+-> Special thanks to our community member, Nisar, for contributing the Docker implementation! 🐳
+
+1. **Download & Install Docker Desktop**
+https://docs.docker.com/get-started/get-docker/
+
+2. **Clone this repository**
+   ```bash
+   git clone https://github.com/data-freelancer-mastermind/mkdocs-website-template.git
+   cd mkdocs-website-template
+   ```
+
+3. **Start the server**
+   ```bash
+   chmod +x start_server.sh
+   ./start_server.sh
+   ```
+   Visit `http://localhost:8000` to see your site.
 
 ## Customizing Your Portfolio
 
