@@ -1,31 +1,24 @@
 ---
 title: About Me
-description: Explore AI, data science, and entrepreneurship with Dave Ebbelaar. Learn about Datalumina, AI tutorials, freelancing, and innovative AI solutions for businesses.
-keywords: Dave Ebbelaar, AI entrepreneur, Datalumina, AI tutorials, Data Freelancer, GenAI Launchpad
-author: Dave Ebbelaar
-canonical_url: https://www.daveebbelaar.com/
+description: EAutomate boring tasks with AI and boost your business.
+keywords: Marco Berta, AI entrepreneur,  AI engineer, Data Science, Machine Learning
+author: Marco Berta
+canonical_url: https://www.marco-berta.com/
 ---
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "name": "Dave Ebbelaar",
-  "url": "https://www.daveebbelaar.com/",
-  "image": "https://avatars.githubusercontent.com/u/34709402?v=4",
+  "name": "Marco Berta",
+  "url": "https://www.marco-berta.com/",
+  "image": "https://avatars.githubusercontent.com/u/52595223?v=4",
   "sameAs": [
-    "https://www.youtube.com/channel/UCn8ujwUInbJkBhffxqAPBVQ",
-    "https://www.youtube.com/@daveebbelaar",
-    "https://www.linkedin.com/in/daveebbelaar/",
-    "https://github.com/daveebbelaar"
-    "https://www.skool.com/@daveebbelaar"
+    "https://www.youtube.com/@marcoberta6353",
+    "https://www.linkedin.com/in/marco-berta/",
+    "https://github.com/opsabarsec"
   ],
-  "jobTitle": "Founder & CEO",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Datalumina",
-    "url": "https://www.datalumina.com/"
-  },
+  "jobTitle": "AI Engineer",
 }
 </script>
 
@@ -33,13 +26,10 @@ canonical_url: https://www.daveebbelaar.com/
 
 <div class="text-intro-grid" markdown>
 
-# Turn AI complexity into your competitive advantage
+# Get AI to do the boring workfor you
 
-### I have 5+ years experience doing just that
+### I have 5+ years experience providing AI/ML solutions to client needs
 
-- Are you struggling to keep up with the rapid pace of AI innovation?
-
-- Do you need help translating AI hype into real business results?
 
 - Want to implement AI effectively before competitors get ahead?
 
@@ -53,7 +43,7 @@ canonical_url: https://www.daveebbelaar.com/
 
 <div class="profile-image-grid" markdown>
 
-![Dave Ebbelaar, AI Entrepreneur and Educator](assets/@daveebbelaar.jpg){ .profile-image alt="Portrait of Dave Ebbelaar, AI entrepreneur and educator" }
+![Marco Berta, AI Entrepreneur and Content Creator](assets/@marcoberta.png){ .profile-image alt="Portrait of Marco Berta, AI entrepreneur and content creator" }
 
 </div>
 
@@ -61,9 +51,9 @@ canonical_url: https://www.daveebbelaar.com/
 
 ## About me
 
-Hi! I'm Dave, an entrepreneur and educator from the Netherlands. I work with technical professionals facing the overwhelming pace of AI innovation and businesses struggling to translate AI hype into competitive advantage. Whether you're a developer watching your skills becoming obsolete or a company unsure how to implement AI effectively—the challenge is the same: how to effectively use this technology before your competitors do.
+Hi! I'm Marco Berta, an AI Engineer with 5+ years of experience designing and delivering AI/ML solutions across diverse industries and with a variety of partners. I help businesses and technical teams move beyond the noise of AI hype and focus on building systems that create real competitive advantage. Whether it’s an engineering team navigating rapid shifts in AI technology or a company unsure how to leverage it effectively—the challenge is the same: turning AI into practical, scalable impact before competitors do.
 
-My artificial intelligence journey spans over a decade, with bachelor's and master's degrees in the field and experience building custom data and AI systems across utilities, government, and e-commerce sectors. My tech stack includes Python, PostgreSQL, ML, FastAPI, OpenAI, Claude, Azure, vector databases, RAG, and LLM integration for enterprise applications.
+My background includes hands-on experience developing custom AI-driven systems for utilities, government, and e-commerce, as well as cross-industry collaborations. My tech stack spans Python, PostgreSQL, machine learning, FastAPI, OpenAI, Claude, Azure, vector databases, RAG implementations, and large language model integrations tailored for enterprise applications.
 
 ## Why work with me?
 
@@ -75,7 +65,7 @@ Here's what sets me apart and how I can help drive value for your business:
 
     ---
 
-    As the founder of Datalumina, I bring entrepreneurial insight to every project. I understand both the technical and business sides of AI implementation, ensuring solutions that deliver real ROI and align with your business goals.
+    I bring entrepreneurial insight to every project. I understand both the technical and business sides of AI implementation, ensuring solutions that deliver real ROI and align with your business goals.
 
 -   :material-youtube:{ .lg .middle } Educator & Communicator
 
@@ -97,41 +87,6 @@ Here's what sets me apart and how I can help drive value for your business:
 
 </div>
 
-## What my past clients say about my work
-
-<div class="grid cards testimonials" markdown>
-
--   :material-format-quote-open:{ .lg .middle } Adrian Dragomir
-    
-    Founder at Sferal
-
-    ---
-
-    "Dave is a true professional and my collaboration with him has been flawless. **He took his time and spent 3 days with me and my team in Mamaia, Romania where he was a guest for 3 sessions of my podcast Waves of AI**. He is one of the most competent people I know that has a real understanding of how AI works and how to integrate it quickly in your company."
-
--   :material-format-quote-open:{ .lg .middle } Barbara van den Bosch
-    
-    Founder at Viverve
-
-    ---
-
-    "Together with Datalumina, we developed a tailor-made program where I, as a school leader, can now bring together vast amounts of information in one place and automate key tasks. **Beyond the tremendous quality improvement for our organization, working with Datalumina was an extremely pleasant experience**."
-
--   :material-format-quote-open:{ .lg .middle } Rene Raaphorst
-    
-    Founder at Crypto Insiders
-
-    ---
-
-    "My experience with Datalumina has been excellent. **They think along with you every step of the way, from proof of concept to a fully functional product**. I was amazed by the quality of the results and found the collaboration very enjoyable. I highly recommend Dave and Datalumina to everyone!"
-
--   :material-format-quote-open:{ .lg .middle } Kelsen
-    
-    Founder at Datavisum
-
-    ---
-
-    "I am thankful for having come across Dave and Data Freelancer, it was one of the best investment decisions I've made in 2024. **From effective ways to create inbound marketing strategies using social media, through solution architecture design to address all kinds of business challenges**, you will extract a great deal of value from diverse perspectives."
 
 </div>
 
