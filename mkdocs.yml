@@ -1,6 +1,6 @@
-site_name: Marco Doc
-site_description: Marco AI Engineering
-site_url: https://aiengineering.fr
+site_name: Marco Berta - AI Engineering & Software Development
+site_description: Build AI-powered solutions, automate workflows, and scale data infrastructure
+site_url: https://marco-berta.com
 
 nav:
   - Home:
@@ -52,13 +52,13 @@ extra:
   generator: true
   social:
     - icon: fontawesome/solid/building
-      link: https://company.com
+      link: https://marco-berta.com
     - icon: fontawesome/brands/github
-      link: https://github.com/
+      link: https://github.com/opsabarsec
     - icon: fontawesome/brands/youtube
-      link: https://youtube.com/
+      link: https://www.youtube.com/@marcoberta6353
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com
+      link: https://www.linkedin.com/in/marco-berta/
 
 extra_css:
   - stylesheets/extra.css
@@ -97,4 +97,4 @@ extra_javascript:
 
 
 copyright: |
-  &copy; 2024 <a href="https://www.linkedin.com" target="_blank" rel="noopener">John Doe</a>. All rights reserved
+  &copy; 2025 <a href="https://www.linkedin.com/in/marco-berta/" target="_blank" rel="noopener">Marco Berta</a>. All rights reserved.
