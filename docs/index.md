@@ -65,7 +65,7 @@ Here's what sets me apart and how I can help drive value for your business:
 
     ---
 
-    I bring entrepreneurial insight to every project. I understand both the technical and business sides of AI implementation, ensuring solutions that deliver real ROI and align with your business goals.
+    As the founder of Datalumina, I bring entrepreneurial insight to every project. I understand both the technical and business sides of AI implementation, ensuring solutions that deliver real ROI and align with your business goals.
 
 -   :material-youtube:{ .lg .middle } Educator & Communicator
 
@@ -87,6 +87,41 @@ Here's what sets me apart and how I can help drive value for your business:
 
 </div>
 
+## What my past clients say about my work
+
+<div class="grid cards testimonials" markdown>
+
+-   :material-format-quote-open:{ .lg .middle } Adrian Dragomir
+    
+    Founder at Sferal
+
+    ---
+
+    "Dave is a true professional and my collaboration with him has been flawless. **He took his time and spent 3 days with me and my team in Mamaia, Romania where he was a guest for 3 sessions of my podcast Waves of AI**. He is one of the most competent people I know that has a real understanding of how AI works and how to integrate it quickly in your company."
+
+-   :material-format-quote-open:{ .lg .middle } Barbara van den Bosch
+    
+    Founder at Viverve
+
+    ---
+
+    "Together with Datalumina, we developed a tailor-made program where I, as a school leader, can now bring together vast amounts of information in one place and automate key tasks. **Beyond the tremendous quality improvement for our organization, working with Datalumina was an extremely pleasant experience**."
+
+-   :material-format-quote-open:{ .lg .middle } Rene Raaphorst
+    
+    Founder at Crypto Insiders
+
+    ---
+
+    "My experience with Datalumina has been excellent. **They think along with you every step of the way, from proof of concept to a fully functional product**. I was amazed by the quality of the results and found the collaboration very enjoyable. I highly recommend Dave and Datalumina to everyone!"
+
+-   :material-format-quote-open:{ .lg .middle } Kelsen
+    
+    Founder at Datavisum
+
+    ---
+
+    "I am thankful for having come across Dave and Data Freelancer, it was one of the best investment decisions I've made in 2024. **From effective ways to create inbound marketing strategies using social media, through solution architecture design to address all kinds of business challenges**, you will extract a great deal of value from diverse perspectives."
 
 </div>
 

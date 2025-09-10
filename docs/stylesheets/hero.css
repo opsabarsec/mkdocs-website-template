@@ -1,6 +1,6 @@
 .profile-image {
-  width: 280px;
-  height: 380px;
+  width: 1000px;
+  height: 1000px;
   object-fit: cover;
   border-radius: 12px;
   transform: none;
@@ -44,8 +44,8 @@
 
   .profile-image {
     width: 100%;
-    max-width: 350px;
-    height: 400px;
+    max-width: 650px;
+    height: 650px;
     margin: 0 auto;
   }
 
